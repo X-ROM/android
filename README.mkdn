@@ -1,6 +1,6 @@
-Carbon-Dev Source
+C-RoM Mix Source
 ===================
-To get started with Carbon-Dev sources, you'll need to get
+To get started with C-RoM Mix sources, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/version-control.html).
 
 
@@ -13,7 +13,7 @@ You will need to set up some directories in your build environment.
 To create them run:
 
     mkdir -p ~/bin
-    mkdir -p ~/carbon
+    mkdir -p ~/crom
 
 
 
@@ -29,7 +29,7 @@ Enter the following to download make executable the "repo" binary:
 You may need to reboot for these changes to take effect. 
 Now enter the following to initialize the repository:
 
-    cd ~/carbon
+    cd ~/crom
 
 
 
@@ -38,7 +38,7 @@ Repositories:
 
 Before you continue --> run this in the terminal
 ----------------------------------------
-    repo init -u git://github.com/CarbonDev/android.git -b jb2 && repo sync -f
+    repo init -u git://github.com/aways/android.git -b jb2 && repo sync -f
 
 *PLEASE NOTE THAT YOU MUST USE THE -f flag when repo syncing/initializing if you want to sync with our default -j4 setup as android.googlesource seems to like to reject your requests if you set your -jflag too high. 
 if you wish to avoid this issue run it repo sync -j1 otherwise -f (force) is reccomended so it will resync the repos it gets error codes on. Thank you and have a nice day.*
@@ -61,7 +61,7 @@ Enter the number of the build you want to start and press enter
 
 Build the Code:
 
-    make carbon -j7 = Run Squisher/Run Opticharger
+    make crom -j7 = Run Squisher/Run Opticharger
     make otapackage -j7 = No Squisher/No Opticharger
 
 
@@ -78,4 +78,4 @@ git commit -m "dummy commit"
 Then u push the goodies ;)
 
 
-If you have any issues/questions please contact us in channel: #teamcarbon  server: irc.freenode.net
+If you have any issues/questions please contact us in channel: #C-RoM  server: irc.freenode.net
