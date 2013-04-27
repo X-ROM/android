@@ -221,7 +221,7 @@
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="android_frameworks_av" remote="aw" revision="jb2" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="cr" revision="jb2" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="aw" revision="jb2" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/compile/linkloader" name="android_frameworks_compile_linkloader" remote="cm" revision="cm-10.1" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -295,14 +295,13 @@
   <project path="packages/apps/Launcher2" name="android_packages_apps_Launcher2" remote="cr" revision="jb2" />
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cr" revision="jb2" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" revision="refs/tags/android-4.2.2_r1"/>
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cr" revision="jb2" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="kejar31" revision="jb-mr1" />
   <project path="packages/apps/PermissionsManager" name="ChameleonOS/android_packages_apps_PermissionsManager" remote="gh" revision="jellybean-mr1" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cr" revision="jb2" />
   <project path="packages/apps/SamsungServiceMode" name="android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cr" revision="jb2" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="aw" revision="jb2" />
   <project path="packages/apps/SoundRecorder" name="android_packages_apps_SoundRecorder" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" remote="cm" revision="cm-10.1" />
