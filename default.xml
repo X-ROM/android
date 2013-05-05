@@ -108,7 +108,7 @@
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" />
-  <project path="external/genext2fs" name="android_external_genext2fs" remote="aw" revision="jb2" />
+  <project path="external/genext2fs" name="platform/external/genext2fs" />
   <project path="external/giflib" name="platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
   <project path="external/grub" name="platform/external/grub" />
@@ -181,7 +181,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="external_openssh" remote="ub" revision="jb-mr1" />
   <project path="external/openssl" name="external_openssl" remote="ub" revision="jb-mr1" />
-  <project path="external/oprofile" name="android_external_oprofile" remote="aw" revision="jb2" />
+  <project path="external/oprofile" name="android_external_oprofile" remote="cr" revision="jb2" />
   <project path="external/ping" name="external_ping" remote="ub" revision="jb-mr1" />
   <project path="external/ping6" name="android_external_ping6" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="external/ppp" name="platform/external/ppp" />
@@ -221,7 +221,7 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cr" revision="jb2" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
-  <project path="external/yaffs2" name="android_external_yaffs2" remote="aw" revision="jb2" />
+  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="android_frameworks_av" remote="aw" revision="jb2" />
@@ -356,12 +356,12 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
   <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="cm-10.1" />
-  <project path="system/core" name="android_system_core" remote="aw" revision="jb2" />
-  <project path="system/extras" name="android_system_extras" remote="aw" revision="jb2" />
+  <project path="system/core" name="android_system_core" remote="cr" revision="jb2" />
+  <project path="system/extras" name="android_system_extras" remote="cr" revision="cm-10.1-linaro" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="system_security" remote="ub" revision="jb-mr1" />
-  <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
+  <project path="system/vold" name="android_system_vold" remote="aw" revision="jb2" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="vendor/crom" name="android_vendor_crom" remote="aw" revision="jb2" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="aw" revision="jb2" />
