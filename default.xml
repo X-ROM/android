@@ -72,6 +72,7 @@
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/astl" name="platform/external/astl" />
+  <project path="external/bash" name="android_external_bash" remote="cm" revision="cm-10.1" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="cr" revision="jb2" />
@@ -158,6 +159,7 @@
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
+  <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.1" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="android_external_llvm" remote="cmdev" revision="cm-10.1-linaro" />
