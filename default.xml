@@ -46,7 +46,7 @@
   </project>
   <project path="android" name="android" remote="aw" revision="jb2" />
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="DJLaMontagneIII/android_bionic" remote="gh" revision="DJL10.1" />
+  <project path="bionic" name="X-ROM/android_bionic" remote="gh" revision="DJL10.1" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="dalvik" name="android_dalvik" remote="aw" revision="jb2" />
@@ -307,7 +307,7 @@
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cr" revision="jb2" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="gh" revision="jb-mr1" />
-  <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cr" revision="jb2" />
+  <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="aw" revision="jb2" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/SamsungServiceMode" name="android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="aw" revision="jb2" />
