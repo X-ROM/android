@@ -372,8 +372,8 @@
   <project path="vendor/crom" name="android_vendor_crom" remote="aw" revision="jb2" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="aw" revision="jb2" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.1" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-10.1" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
-  <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" remote="gh" revision="jb-4.2"/>
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" remote="gh" revision="jb-4.2" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" remote="gh" revision="jb-4.2" />
+  <project path="vendor/tmobile/products/themes" name="TeamBAKED/vendor_tmobile_products_themes" remote="gh" revision="jb-4.2" />
 </manifest>
