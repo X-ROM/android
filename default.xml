@@ -75,7 +75,7 @@
   <project path="external/bash" name="android_external_bash" remote="cm" revision="cm-10.1" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="cr" revision="jb2" />
+  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="aw" revision="jb2" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/busybox" name="android_external_busybox" remote="cr" revision="jb2" />
@@ -181,7 +181,7 @@
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="external_openssh" remote="ub" revision="jb-mr1" />
+  <project path="external/openssh" name="X-ROM/external_openssh" remote="gh" revision="DJL10.1" />
   <project path="external/openssl" name="external_openssl" remote="ub" revision="jb-mr1" />
   <project path="external/oprofile" name="android_external_oprofile" remote="cr" revision="jb2" />
   <project path="external/ping" name="external_ping" remote="ub" revision="jb-mr1" />
@@ -197,7 +197,7 @@
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
-  <project path="external/skia" name="android_external_skia" remote="cr" revision="jb2" />
+  <project path="external/skia" name="X-ROM/android_external_skia" remote="gh" revision="DJL10.1" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
