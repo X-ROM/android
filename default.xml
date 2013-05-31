@@ -181,7 +181,7 @@
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="X-ROM/external_openssh" remote="gh" revision="DJL10.1" />
+  <project path="external/openssh" name="X-ROM/android_external_openssh" remote="gh" revision="DJL10.1" />
   <project path="external/openssl" name="external_openssl" remote="ub" revision="jb-mr1" />
   <project path="external/oprofile" name="android_external_oprofile" remote="cr" revision="jb2" />
   <project path="external/ping" name="external_ping" remote="ub" revision="jb-mr1" />
