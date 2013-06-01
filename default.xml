@@ -46,7 +46,7 @@
   </project>
   <project path="android" name="android" remote="aw" revision="jb2" />
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="X-ROM/android_bionic" remote="gh" revision="DJL10.1" />
+  <project path="bionic" name="android_bionic" remote="cr" revision="jb2" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="dalvik" name="android_dalvik" remote="aw" revision="jb2" />
@@ -181,7 +181,7 @@
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="X-ROM/android_external_openssh" remote="gh" revision="DJL10.1" />
+  <project path="external/openssh" name="external_openssh" remote="ub" revision="jb-mr1" />
   <project path="external/openssl" name="external_openssl" remote="ub" revision="jb-mr1" />
   <project path="external/oprofile" name="android_external_oprofile" remote="cr" revision="jb2" />
   <project path="external/ping" name="external_ping" remote="ub" revision="jb-mr1" />
@@ -197,7 +197,7 @@
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
-  <project path="external/skia" name="X-ROM/android_external_skia" remote="gh" revision="DJL10.1" />
+  <project path="external/skia" name="android_external_skia" remote="cr" revision="jb2" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
@@ -362,7 +362,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
   <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="cm-10.1" />
-  <project path="system/core" name="android_system_core" remote="aw" revision="jb2" />
+  <project path="system/core" name="android_system_core" remote="cr" revision="jb2" />
   <project path="system/extras" name="android_system_extras" remote="cr" revision="cm-10.1-linaro" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
