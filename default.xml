@@ -139,8 +139,10 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
-  <project path="external/koush/Superuser" name="Superuser" remote="koush" revision="master" />
-  <project path="external/koush/Widgets" name="Widgets" remote="koush" revision="master" />
+  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="cm" revision="cm-10.1" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
@@ -149,26 +151,26 @@
   <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="cm-10.1" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="cm" revision="cm-10.1" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="cm" revision="cm-10.1" />
-  <project path="external/libnl-headers" name="platform/external/libnl-headers" />
-  <project path="external/libogg" name="platform/external/libogg" />
-  <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" />
+  <project path="external/libnl-headers" name="android_external_libnl-headers" remote="cm" revision="cm-10.1" />
+  <project path="external/libogg" name="android_external_libogg" remote="cm" revision="cm-10.1" />
+  <project path="external/libpcap" name="android_external_libpcap" remote="cm" revision="cm-10.1" />
+  <project path="external/libphonenumber" name="android_external_libphonenumber" remote="cm" revision="cm-10.1" />
   <project path="external/libpng" name="android_external_libpng" remote="aw" revision="jb2" />
-  <project path="external/libppp" name="platform/external/libppp" />
-  <project path="external/libselinux" name="platform/external/libselinux" />
-  <project path="external/libsepol" name="platform/external/libsepol" />
-  <project path="external/libusb" name="platform/external/libusb" />
-  <project path="external/libusb-compat" name="platform/external/libusb-compat" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" />
-  <project path="external/libvpx" name="platform/external/libvpx" />
-  <project path="external/libxml2" name="platform/external/libxml2" />
-  <project path="external/libxslt" name="platform/external/libxslt" />
-  <project path="external/libyuv" name="platform/external/libyuv" />
+  <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-10.1" />
+  <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.1" />
+  <project path="external/libsepol" name="android_external_libsepol" remote="cm" revision="cm-10.1" />
+  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-10.1" />
+  <project path="external/libusb-compat" name="android_external_libusb-compat" remote="cm" revision="cm-10.1" />
+  <project path="external/libvorbis" name="android_external_libvorbis" remote="cm" revision="cm-10.1" />
+  <project path="external/libvpx" name="android_external_libvpx" remote="cm" revision="cm-10.1" />
+  <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="cm-10.1" />
+  <project path="external/libxslt" name="android_external_libxslt" remote="cm" revision="cm-10.1" />
+  <project path="external/libyuv" name="android_external_libyuv" remote="cm" revision="cm-10.1" />
   <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.1" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" remote="cmdev" revision="cm-10.1-linaro" />
-  <project path="external/littlemock" name="platform/external/littlemock" />
+  <project path="external/littlemock" name="android_external_littlemock" remote="cm" revision="cm-10.1" />
   <project path="external/llvm" name="android_external_llvm" remote="cmdev" revision="cm-10.1-linaro" />
-  <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
+  <project path="external/lohit-fonts" name="android_external_lohit-fonts" remote="cm" revision="cm-10.1" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="android_external_mesa3d" remote="cmdev" revision="cm-10.1-linaro" />
@@ -202,7 +204,7 @@
   <project path="external/regex-re2" name="platform/external/regex-re2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/sepolicy" name="platform/external/sepolicy" />
+  <project path="external/sepolicy" name="android_external_sepolicy" remote="cm" revision="cm-10.1" />
   <project path="external/skia" name="android_external_skia" remote="cr" revision="jb2" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
