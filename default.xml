@@ -83,8 +83,8 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cm" revision="cm-10.1" />
-  <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="cm-10.1" />
+  <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="xr" revision="cm-10.1" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device,tuna" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/samsung/toro" name="device/samsung/toro" groups="device,tuna" />
@@ -436,4 +436,5 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="aw" revision="jb2" />
 </manifest>
