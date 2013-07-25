@@ -265,7 +265,7 @@
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="android_frameworks_av" remote="xr" revision="jb3" groups="pdk" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="xr" revision="jb3" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="xr" revision="jb-mr2-release" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
