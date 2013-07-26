@@ -16,7 +16,7 @@
   <remote  name="cr"
            fetch="git://github.com/CarbonDev/" />
 
-<remote  name="aw"
+<remote    name="aw"
            fetch="git://github.com/aways/" />
 
   <remote  name="tm"
@@ -38,7 +38,6 @@
            fetch="git://github.com/nocoast/" />
            
   <remote  name="gh"
-
            fetch="git://github.com/" />
 
   <remote  name="xr"
