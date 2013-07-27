@@ -67,10 +67,10 @@
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="device/asus/flo" groups="device,flo" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
-  <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" remote="cm" revision="cm-10.1" groups="pdk" />
-  <project path="device/generic/common" name="android_device_generic_common" remote="cm" revision="cm-10.1" groups="pdk" />
-  <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="cm" revision="cm-10.1" groups="pdk" />
+  <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.2" />
+  <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="device/generic/common" name="android_device_generic_common" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="device/generic/mips" name="device/generic/mips" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
