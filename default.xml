@@ -204,23 +204,24 @@
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh" />
-  <project path="external/openssl" name="platform/external/openssl" groups="pdk" />
-  <project path="external/oprofile" name="platform/external/oprofile" />
-  <project path="external/ping" name="platform/external/ping" />
+  <project path="external/openssh" name="android_external_openssh" remote="cm" revision="cm-10.2" />
+  <project path="external/openssl" name="android_external_openssl" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/oprofile" name="android_external_oprofile" remote="cm" revision="cm-10.2" />
+  <project path="external/ping" name="android_external_ping" remote="cm" revision="cm-10.2" />
   <project path="external/ping6" name="android_external_ping6" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/ppp" name="platform/external/ppp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" />
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
+  <project path="external/qrngd" name="android_external_qrngd" remote="cm" revision="cm-10.2" />
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/regex-re2" name="platform/external/regex-re2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/skia" name="platform/external/skia" />
+  <project path="external/skia" name="android_external_skia" remote="cm" revision="cm-10.2" />
   <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
@@ -239,7 +240,7 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" />
-  <project path="external/v8" name="platform/external/v8" />
+  <project path="external/v8" name="android_external_v8" remote="cm" revision="cm-10.2" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
   <project path="external/webkit" name="android_external_webkit" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/webp" name="platform/external/webp" />
