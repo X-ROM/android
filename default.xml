@@ -95,7 +95,7 @@
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
   <project path="external/clang" name="android_external_clang" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
+  <project path="external/compiler-rt" name="android_external_compiler-rt" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" groups="pdk" />
@@ -110,6 +110,7 @@
   <project path="external/embunit" name="android_external_embunit" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/emma" name="platform/external/emma" />
   <project path="external/esd" name="platform/external/esd" />
+  <project path="external/exfat" name="android_external_exfat" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
@@ -160,24 +161,25 @@
   <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="cm-10.2" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" groups="nxp_nfc" />
-  <project path="external/libnl-headers" name="platform/external/libnl-headers" groups="pdk" />
-  <project path="external/libogg" name="platform/external/libogg" />
-  <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" />
+  <project path="external/libnl-headers" name="android_external_libnl-headers" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/libogg" name="android_external_libogg" remote="cm" revision="cm-10.2" />
+  <project path="external/libpcap" name="android_external_libpcap" remote="cm" revision="cm-10.2" />
+  <project path="external/libphonenumber" name="android_external_libphonenumber" remote="cm" revision="cm-10.2" />
   <project path="external/libpng" name="android_external_libpng" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/libppp" name="platform/external/libppp" />
+  <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-10.2" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
   <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" />
   <project path="external/libusb" name="platform/external/libusb" />
   <project path="external/libusb_aah" name="platform/external/libusb_aah" groups="libusb_aah" />
-  <project path="external/libusb-compat" name="platform/external/libusb-compat" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
-  <project path="external/libxml2" name="platform/external/libxml2" />
-  <project path="external/libxslt" name="platform/external/libxslt" />
-  <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv" />
+  <project path="external/libusb-compat" name="android_external_libusb-compat" remote="cm" revision="cm-10.2" />
+  <project path="external/libvorbis" name="android_external_libvorbis" remote="cm" revision="cm-10.2" />
+  <project path="external/libvpx" name="android_external_libvpx" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="cm-10.2" />
+  <project path="external/libxslt" name="android_external_libxslt" remote="cm" revision="cm-10.2" />
+  <project path="external/libyuv" name="android_external_libyuv" remote="cm" revision="cm-10.2" groups="libyuv" />
+  <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.2" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/littlemock" name="platform/external/littlemock" />
+  <project path="external/littlemock" name="android_external_littlemock" remote="cm" revision="cm-10.2" />
   <project path="external/llvm" name="android_external_llvm" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" />
   <project path="external/markdown" name="platform/external/markdown" />
@@ -242,7 +244,7 @@
   <project path="external/webkit" name="android_external_webkit" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" />
-  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" />
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.2" groups="pdk" />
@@ -417,6 +419,7 @@
   <project path="tools/build" name="platform/tools/build" groups="notdefault,tools" />
   <project path="tools/emulator" name="platform/tools/emulator" groups="notdefault,tools" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
+  <project path="external/google" name="CyanogenMod/android_external_google" remote="cm" revision="cm-10.2" />
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" />
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
