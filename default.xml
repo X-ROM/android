@@ -70,8 +70,8 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="cm-10.1" />
-  <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="xr" revision="cm-10.1" />
+  <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="jb3" />
+  <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="xr" revision="jb3" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
