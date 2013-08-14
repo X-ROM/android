@@ -165,6 +165,7 @@
   <project path="external/libogg" name="android_external_libogg" remote="cm" revision="cm-10.2" />
   <project path="external/libpcap" name="android_external_libpcap" remote="cm" revision="cm-10.2" />
   <project path="external/libphonenumber" name="android_external_libphonenumber" remote="cm" revision="cm-10.2" />
+  <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" remote="cm" revision="cm-10.2" />
   <project path="external/libpng" name="android_external_libpng" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-10.2" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.2" groups="pdk" />
@@ -276,7 +277,7 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" remote="cm" revision="cm-10.2" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
-  <project path="frameworks/support" name="platform/frameworks/support" />
+  <project path="frameworks/support" name="android_frameworks_support" remote="cm" revision="cm-10.2" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
