@@ -53,7 +53,7 @@
   </project>
   <project path="android" name="android" remote="xr" revision="jb3" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="bionic" name="android_bionic" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="bionic" name="android_bionic" remote="xr" revision="jb3" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.2" groups="pdk" />
