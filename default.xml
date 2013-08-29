@@ -229,6 +229,8 @@
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" />
   <project path="external/sqlite" name="android_external_sqlite" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/spongycastle" name="android_external_spongycastle" revision="cm-10.2" groups="pdk
+" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
   <project path="external/stlport" name="platform/external/stlport" groups="pdk" />
