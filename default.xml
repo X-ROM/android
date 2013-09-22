@@ -323,7 +323,6 @@
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.2" />
@@ -336,8 +335,7 @@
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="gh" revision="jb4.3" />
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="packages/apps/Focal" name="android_packages_apps_Focal" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cr" revision="jb3" />
   <project path="packages/apps/HALO" name="HALO" remote="xr" revision="master" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
@@ -362,6 +360,7 @@
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="xr" revision="jb3" />
+  <project path="packages/apps/Wallpapers" name="android_packages_apps_C-RoM_Wallpapers" remote="xr" revision="jb3" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/apps/VoicePlus" name="android_packages_apps_VoicePlus" remote="cm" revision="cm-10.2" />
   <project path="packages/experimental" name="platform/packages/experimental" />
