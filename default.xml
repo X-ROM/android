@@ -56,7 +56,7 @@
   </project>
   <project path="android" name="android" remote="xr" revision="kitkat" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="platform/art" />
+  <project path="art" name="android_art" remote="cm" revision="cm-11.0" />
   <project path="bionic" name="android_bionic" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
