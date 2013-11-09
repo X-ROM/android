@@ -399,7 +399,7 @@
   <project path="packages/apps/Tag" name="android_packages_apps_Tag" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
 <!-- <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="xr" revision="jb3" /> -->
-  <project path="packages/apps/Wallpapers" name="android_packages_apps_C-RoM_Wallpapers" remote="xr" revision="kitkat" />
+<!--  <project path="packages/apps/Wallpapers" name="android_packages_apps_C-RoM_Wallpapers" remote="xr" revision="kitkat" /> -->
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/apps/VoicePlus" name="android_packages_apps_VoicePlus" remote="cm" revision="cm-11.0" />
   <project path="packages/experimental" name="platform/packages/experimental" />
