@@ -73,6 +73,8 @@
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
+  <project path="device/lge/mako" name="android_device_lge_mako" remote="xr" revision="kk" />
+  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
   <project path="device/sample" name="android_device_sample" remote="cm" revision="cm-11.0" groups="device" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="kitkat" />
   <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="xr" revision="kitkat" />
@@ -495,6 +497,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/crom" name="android_vendor_crom" remote="xr" revision="kitkat" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="aw" revision="jb2" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision="kk" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
