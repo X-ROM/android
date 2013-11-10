@@ -79,7 +79,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
-  <project path="device/lge/mako" name="android_device_lge_mako" remote="xr" revision="kk" />
+  <project path="device/lge/mako" name="android_device_lge_mako" remote="xr" revision="kitkat" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" />
   <project path="device/sample" name="android_device_sample" remote="cm" revision="cm-11.0" groups="device" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="kitkat" />
