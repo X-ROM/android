@@ -56,13 +56,13 @@
   </project>
   <project path="android" name="android" remote="xr" revision="kitkat" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="android_art" remote="cm" revision="cm-11.0" />
+  <project path="art" name="platform/art" />
   <project path="bionic" name="android_bionic" remote="xr" revision="kitkat" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="cts" />
-  <project path="dalvik" name="android_dalvik" remote="cm" revision="cm-11.0" />
+  <project path="dalvik" name="android_dalvik" remote="xr" revision="kitkat" />
   <project path="developers/build" name="platform/developers/build" />
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
