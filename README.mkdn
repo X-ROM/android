@@ -1,4 +1,4 @@
-C-RoM Source
+C-RoM Mix Source
 ===================
 To get started with C-RoM Mix sources, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/version-control.html).
