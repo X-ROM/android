@@ -346,7 +346,7 @@
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" />
-  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm" revision="cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/power" name="AOSPA/android_hardware_qcom_power" remote="gh" revision="kitkat" groups="qcom" />
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" revision="cm-11.0" groups="qcom_wlan" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="cm-11.0" groups="pdk" />
@@ -485,7 +485,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/crom" name="android_vendor_crom" remote="xr" revision="kitkat" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="aw" revision="jb2" />
-  <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision="kk" />
+  <project path="vendor/lge/mako" name="ThankYouMario/proprietary_vendor_lge_mako" remote="gh" revision="kitkat" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
