@@ -56,7 +56,7 @@
   </project>
   <project path="android" name="android" remote="xr" revision="kitkat" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="platform/art" />
+  <project path="art" name="android_art" remote="cr" revision="kk" />
   <project path="bionic" name="android_bionic" remote="xr" revision="kitkat" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
@@ -108,7 +108,7 @@
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
-  <project path="external/chromium_org" name="platform/external/chromium_org" />
+  <project path="external/chromium_org" name="android_external_chromium_org" remote="cm" revision="cm-11.0" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
@@ -371,6 +371,7 @@
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/C-Tool" name="android_packages_apps_C-Tool" remote="xr" revision="kitkat" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="omnirom" revision="android-4.4" />
@@ -466,7 +467,7 @@
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-11.0" />
   <project path="system/core" name="android_system_core" remote="xr" revision="kitkat" groups="pdk" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="cm-11.0" groups="pdk" />
-  <project path="system/media" name="android_system_media" remote="omnirom" revision="android-4.4" groups="pdk" />
+  <project path="system/media" name="android_system_media" remote="xr" revision="kitkat" groups="pdk" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/qcom" name="android_system_qcom" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
