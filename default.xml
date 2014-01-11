@@ -10,9 +10,6 @@
   <remote  name="slim"
            fetch="git://github.com/Slimroms/" />
 
-  <remote  name="sm"
-           fetch="git://github.com/SaberMod/" />
-
   <remote  name="cr"
            fetch="git://github.com/CarbonDev/" />
 
