@@ -77,10 +77,11 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="xr" revision="kitkat" />
-  <project path="kernel/google/msm" name="android_kernel_google_msm" remote="cm" revision="cm-11.0" />
+  <project path="kernel/lge/mako" name="android_kernel_lge_mako" remote="cr" revision="kk" />
   <project path="device/sample" name="android_device_sample" remote="cm" revision="cm-11.0" groups="device" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="xr" revision="kitkat" />
   <project path="device/samsung/galaxysmtd" name="android_device_samsung_galaxysmtd" remote="xr" revision="kitkat" />
+  <project path="device/samsung/jfltexx" name="android_device_samsung_jfltexx" remote="xr" revision="kitkat" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cm" revision="cm-11.0" />
