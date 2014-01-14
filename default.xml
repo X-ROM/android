@@ -433,6 +433,7 @@
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="xr" revision="kitkat" />
+  <project path="packages/themes/KitKatWhite" name="AOKP/packages_themes_KitKatWhite" remote="gh" revision="kitkat" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
