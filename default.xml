@@ -84,7 +84,7 @@
   <project path="device/samsung/jfltexx" name="android_device_samsung_jfltexx" remote="xr" revision="kitkat" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cm" revision="cm-11.0" />
-  <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="xr" revision="kitkat" />
+  <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cm" revision="cm-11.0" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
