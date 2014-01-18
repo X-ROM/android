@@ -84,7 +84,7 @@
 
   <!-- External Packages -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="external/aac" name="CyanogenMod_android_external_aac" groups="pdk" remote="cm" revision="cm-11.0" />
+  <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" remote="cm" revision="cm-11.0" />
   <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
