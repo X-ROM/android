@@ -12,7 +12,7 @@
            sync-j="4" />
 
   <remote  name="slim"
-           fetch="git://github.com/Slimroms/" />
+           fetch="git://github.com/SlimRoms/" />
 
   <remote  name="cr"
            fetch="git://github.com/"
@@ -365,7 +365,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 
-  <!-- Apps -->
+  <!-- Apps -->  <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="slim" revision="kk4.4" />
   <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="gh" revision="android-4.4" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-11.0" />
