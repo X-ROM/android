@@ -34,6 +34,7 @@
            sync-j="4" />
 
   <default revision="refs/heads/kitkat"
+           remote="xr"
            sync-j="4" />
 
   <project path="build" name="X-ROM/android_build" groups="pdk" >
