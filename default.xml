@@ -29,11 +29,9 @@
            fetch="https://github.com/"
            sync-j="4" />
 
-  <remote  name="omnirom"
-           fetch="git://github.com/omnirom" />
-
   <remote  name="xr"
-           fetch="git://github.com/X-ROM" />
+           fetch="git://github.com/X-ROM"
+           sync-j="4" />
 
   <default revision="refs/heads/kitkat"
            remote="xr"
@@ -89,7 +87,7 @@
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/aac" name="CyanogenMod_android_external_aac" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="external/android-mock" name="CyanongenMod/android_external_android-mock" remote="cm" revision="cm-11.0" />
+  <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" remote="cm" revision="cm-11.0" />
   <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -369,7 +367,7 @@
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 
   <!-- Apps -->
-  <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="omnirom" revision="android-4.4" />
+  <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="gh" revision="android-4.4" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="cm" revision="cm-11.0" />
