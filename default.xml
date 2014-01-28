@@ -325,7 +325,7 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/volley" name="platform/frameworks/volley" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="frameworks/webview" name="platform/frameworks/webview" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" remote="cm" revision="cm-11.0" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 
   <!-- Hardware Packages -->
