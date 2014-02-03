@@ -380,7 +380,7 @@
   <project path="packages/apps/ContactsCommon" name="TEAM-Gummy/android_packages_apps_ConctactsCommon" remote="gh" revision="kk4.4" />
   <project path="packages/apps/CRoMBlocker" name="X-ROM/android_packages_apps_CRoMBlocker" />
   <project path="packages/apps/C-Updater" name="X-ROM/android_packages_apps_C-Updater" />
-  <project path="packages/apps/DashClock" name="CyanogenMod/android_packages_apps_DashClock" remote="cm" revision="cm-11.0" />
+  <!--project path="packages/apps/DashClock" name="CyanogenMod/android_packages_apps_DashClock" remote="cm" revision="cm-11.0" />-->
   <project path="packages/apps/DeskClock" name="TEAM-Gummy/packages_apps_DeskClock" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="X-ROM/android_packages_apps_Dialer" />
   <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="gh" revision="android-4.4" />
