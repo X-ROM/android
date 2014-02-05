@@ -66,16 +66,20 @@
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 
   <!-- C-RoM Devices -->
+  <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
   <project path="device/samsung/aries-common" name="X-ROM/android_device_samsung_aries-common" />
   <project path="device/samsung/galaxysmtd" name="X-ROM/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/jfltexx" name="X-ROM/android_device_samsung_jfltexx" />
   <project path="device/samsung/jf-common" name="X-ROM/android_device_samsung_jf-common" />
+  <project path="device/htc/m7" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
+  <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-11.0" />
 
   <!-- Kernel Sources -->
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
+  <project path="kernel/htc/m7" name="CarbonDev/android_kernel_htc_m7" remote="cr" revision="kk" />
   <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
 
@@ -495,6 +499,7 @@
 
   <!-- Vendor Packages -->
   <project path="vendor/crom" name="X-ROM/android_vendor_crom" />
+  <project path="vendor/htc" name="Carbon-m7/proprietary_vendor_htc" remote="gh" revision="kk" />
   <project path="vendor/lge" name="CarbonDev/proprietary_vendor_lge" remote="cr" revision="kk" />
   <project path="vendor/samsung" name="X-ROM/proprietary_vendor_samsung" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
