@@ -383,7 +383,6 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Contacts" name="SlimRoms/packages_apps_Contacts" remote="gh" revision="kk4.4" />
   <project path="packages/apps/ContactsCommon" name="SlimRoms/packages_apps_ContactsCommon" remote="gh" revision="kk4.4" />
-  <project path="packages/apps/CRoMBlocker" name="X-ROM/android_packages_apps_CRoMBlocker" />
   <project path="packages/apps/C-Updater" name="X-ROM/android_packages_apps_C-Updater" />
   <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="gh" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="AICP/packages_apps_DeskClock" remote="gh" revision="kitkat" />
