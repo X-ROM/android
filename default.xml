@@ -74,7 +74,7 @@
   <project path="device/samsung/jf-common" name="X-ROM/android_device_samsung_jf-common" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
   <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
-  <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/msm8960-common" name="X-ROM/android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-11.0" />
 
   <!-- Kernel Sources -->
