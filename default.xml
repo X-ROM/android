@@ -26,6 +26,10 @@
            fetch="https://github.com/"
            sync-j="4" />
 
+  <remote  name="sf"
+           fetch="git://git.code.sf.net/p/"
+           sync-j="4" />
+
   <remote  name="xr"
            fetch="git://github.com/" />
 
@@ -278,7 +282,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="external/stlport" name="platform/external/stlport" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="external/stlport" name="Myself5/android_external_stlport" groups="pdk" remote="gh" revision="kk" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="cm" revision="cm-11.0" />
   <project path="external/stressapptest" name="platform/external/stressapptest" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
