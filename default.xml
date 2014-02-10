@@ -420,7 +420,7 @@
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="gh" revision="kk4.4" />
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="cm" revision="cm-11.0" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/inputmethods/LatinIME" name="SlimRoms/packages_inputmethods_LatinIME" remote="gh" revision="kk4.4" />
