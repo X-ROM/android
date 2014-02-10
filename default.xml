@@ -80,7 +80,7 @@
   <!-- Kernel Sources -->
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
   <project path="kernel/htc/m7" name="CarbonDev/android_kernel_htc_m7" remote="cr" revision="kk" />
-  <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-11.0" />
+  <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
   <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
 
