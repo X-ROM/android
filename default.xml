@@ -70,7 +70,8 @@
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
   <project path="device/samsung/aries-common" name="X-ROM/android_device_samsung_aries-common" />
   <project path="device/samsung/galaxysmtd" name="X-ROM/android_device_samsung_galaxysmtd" />
-  <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
+  <project path="device/samsung/jfltexx" name="X-ROM/android_device_samsung_jfltexx" />
+  <project path="device/samsung/jf-common" name="X-ROM/android_device_samsung_jf-common" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
   <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
   <project path="device/samsung/msm8960-common" name="X-ROM/android_device_samsung_msm8960-common" />
