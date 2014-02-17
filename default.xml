@@ -18,10 +18,7 @@
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
-           
-  <remote  name="koush"
-           fetch="git://github.com/koush/" />
-           
+
   <remote  name="gh"
            fetch="https://github.com/"
            sync-j="4" />
