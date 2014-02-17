@@ -69,8 +69,6 @@
   <!-- C-RoM Devices -->
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
-  <project path="device/samsung/aries-common" name="X-ROM/android_device_samsung_aries-common" />
-  <project path="device/samsung/galaxysmtd" name="X-ROM/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
   <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
@@ -81,7 +79,6 @@
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
   <project path="kernel/htc/m7" name="CarbonDev/android_kernel_htc_m7" remote="cr" revision="kk" />
   <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
-  <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
 
   <!-- External Packages -->
