@@ -66,21 +66,6 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
 
-  <!-- C-RoM Devices -->
-  <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
-  <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
-  <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
-  <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
-  <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
-  <project path="device/samsung/msm8960-common" name="X-ROM/android_device_samsung_msm8960-common" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-11.0" />
-
-  <!-- Kernel Sources -->
-  <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
-  <project path="kernel/htc/m7" name="CarbonDev/android_kernel_htc_m7" remote="cr" revision="kk" />
-  <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
-  <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
-
   <!-- External Packages -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" remote="cm" revision="cm-11.0" />
