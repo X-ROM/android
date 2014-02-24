@@ -66,6 +66,7 @@
   <!-- C-RoM Devices -->
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
+  <project path="device/samsung/fascinatemtd" name="X-ROM/android_device_samsung_fascinatemtd" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
   <project path="device/htc/msm8960-common" name="CarbonDev/android_device_htc_msm8960-common" remote="cr" revision="kk" />
