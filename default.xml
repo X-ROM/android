@@ -318,7 +318,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="frameworks/opt/telephony" name="AICP/frameworks_opt_telephony" remote="github" revision="kitkat" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="AICP/frameworks_opt_telephony" remote="gh" revision="kitkat" groups="pdk" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="cm" revision="cm-11.0" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" remote="cm" revision="cm-11.0" />
