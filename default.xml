@@ -381,7 +381,7 @@
   <project path="packages/apps/CRoMAbout" name="X-ROM/android_packages_apps_CRoMAbout" />
   <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="gh" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="AICP/packages_apps_DeskClock" remote="gh" revision="kitkat" />
-  <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" emote="gh" revision="kitkat" />
+  <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" remote="gh" revision="kitkat" />
   <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="gh" revision="android-4.4" />
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" remote="gh" revision="kk4.4" />
