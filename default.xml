@@ -411,8 +411,8 @@
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="gh" revision="kk4.4" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
