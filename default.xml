@@ -390,16 +390,15 @@
   <project path="packages/apps/HALO" name="X-ROM/HALO" revision="master" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/InCallUI" name="X-ROM/android_packages_apps_InCallUI" revision="kitkat" />
+  <project path="packages/apps/KernelTweaker" name="X-ROM/android_packages_apps_KernelTweaker" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Mms" name="X-ROM/android_packages_apps_Mms" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/OmniSwitch" name="X-ROM/android_packages_apps_OmniSwitch" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/PackageInstaller" name="omnirom/android_packages_apps_PackageInstaller" remote="gh" revision="android-4.4" />
-  <project path="packages/apps/PerformanceControl" name="X-ROM/android_packages_apps_PerformanceControl" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/ROMStats" name="X-ROM/android_packages_apps_ROMStats" />
