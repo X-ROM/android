@@ -377,7 +377,7 @@
  <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/Contacts" name="SlimRoms/packages_apps_Contacts" remote="gh" revision="kk4.4" />
+  <project path="packages/apps/Contacts" name="X-ROM/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="X-ROM/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/CRoMAbout" name="X-ROM/android_packages_apps_CRoMAbout" />
   <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="gh" revision="kk4.4" />
@@ -418,7 +418,7 @@
   <project path="packages/inputmethods/LatinIME" name="SlimRoms/packages_inputmethods_LatinIME" remote="gh" revision="kk4.4" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="cm" revision="cm-11.0" />
-  <project path="packages/providers/ContactsProvider" name="SlimRoms/packages_providers_ContactsProvider" remote="gh" revision="kk4.4" />
+  <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/DownloadProvider" name="AICP/packages_providers_DownloadProvider" remote="gh" revision="kitkat" />
   <project path="packages/providers/MediaProvider" name="CarbonDev/android_packages_providers_MediaProvider" remote="cr" revision="kk" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
