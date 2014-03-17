@@ -4,31 +4,31 @@
   <remote  name="aosp"
            fetch="http://android.googlesource.com/"
            review="https://android-review.googlesource.com/"
-           sync-j="4" />
+           sync-j="8" />
 
   <remote  name="cm"
            fetch="git://github.com/" 
            review="review.cyanogenmod.org" 
-           sync-j="8" />
+           sync-j="16" />
 
   <remote  name="cr"
            fetch="git://github.com/"
            review="review.carbon-rom.com"
-           sync-j="8" />
+           sync-j="16" />
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
 
   <remote  name="gh"
            fetch="https://github.com/"
-           sync-j="8" />
+           sync-j="16" />
 
   <remote  name="xr"
            fetch="git://github.com/" />
 
   <default revision="refs/heads/kitkat"
            remote="xr"
-           sync-j="8" />
+           sync-j="16" />
 
   <project path="build" name="X-ROM/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
