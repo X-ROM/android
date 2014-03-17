@@ -382,7 +382,7 @@
   <project path="packages/apps/Contacts" name="X-ROM/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="X-ROM/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/CRoMAbout" name="X-ROM/android_packages_apps_CRoMAbout" />
-  <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="gh" revision="kk4.4" />
+  <project path="packages/apps/DashClock" name="X-ROM/android_packages_apps_DashClock" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="AICP/packages_apps_DeskClock" remote="gh" revision="kitkat" />
   <project path="packages/apps/Dialer" name="X-ROM/android_packages_apps_Dialer" revision="kk-new" />
   <project path="packages/apps/DSPManager" name="X-ROM/android_packages_apps_DSPManager" />
