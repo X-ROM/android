@@ -66,6 +66,7 @@
   <!-- C-RoM Devices -->
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
+  <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="kk" />
@@ -77,6 +78,7 @@
   <!-- Kernel Sources -->
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
   <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
+  <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/smdk4412" name="omnirom/android_kernel_samsung_smdk4412" remote="gh" revision="android-4.4" />
 
@@ -345,10 +347,12 @@
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="cm" revision="cm-11.0" groups="qcom" />
