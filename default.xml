@@ -65,7 +65,7 @@
 
   <!-- C-RoM Devices -->
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
-  <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" revision="cm-11.0" />
+  <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
