@@ -280,7 +280,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="external/stlport" name="platform/external/stlport" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="external/stlport" name="X-ROM/android_external_stlpor" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="cm" revision="cm-11.0" />
   <project path="external/stressapptest" name="platform/external/stressapptest" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
