@@ -35,7 +35,7 @@
   </project>
   <project path="android" name="X-ROM/android" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="art" name="CarbonDev/android_art" remote="cr" revision="kk" />
+  <project path="art" name="X-ROM/android_art" revision="kk-test" />
   <project path="bionic" name="X-ROM/android_bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
