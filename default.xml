@@ -396,7 +396,7 @@
   <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="gh" revision="android-4.4" />
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" remote="gh" revision="kk4.4" />
-  <project path="packages/apps/Gallery2" name="SlimRoms/packages_apps_Gallery2" remote="gh" revision="kk4.4" />
+  <project path="packages/apps/Gallery2" name="X-ROM/packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/InCallUI" name="X-ROM/android_packages_apps_InCallUI" revision="kk-new" />
   <project path="packages/apps/KernelTweaker" name="X-ROM/android_packages_apps_KernelTweaker" />
