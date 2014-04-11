@@ -51,6 +51,7 @@
   <!-- Generic Devices -->
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-11.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="cm" revision="cm-11.0" />
+  <project path="device/motorola/qcom-common" name="X-ROM/android_device_motorola_qcom-common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
@@ -67,6 +68,8 @@
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
+  <project path="device/motorola/falcon" name="X-ROM/android_device_motorola_falcon" />
+  <project path="device/motorola/msm8226-common" name="X-ROM/android_device_motorola_msm8226-common" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
   <project path="device/samsung/i9300" name="X-ROM/android_device_samsung_i9300" />
@@ -85,6 +88,7 @@
   <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/smdk4412" name="omnirom/android_kernel_samsung_smdk4412" remote="gh" revision="android-4.4" />
+  <project path="kernel/motorola/msm8226" name="X-ROM/android_kernel_motorola_msm8226" />
 
   <!-- External Packages -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
@@ -222,6 +226,7 @@
   <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" remote="cm" revision="cm-11.0" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/libvorbis" name="platform/external/libvorbis" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+
 
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" remote="cm" revision="cm-11.0" />
@@ -505,8 +510,9 @@
 
   <!-- Vendor Packages -->
   <project path="vendor/crom" name="X-ROM/android_vendor_crom" />
-  <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" remote="gh" revision="kk" />
+  <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="gh" revision="cm-11.0" />
   <project path="vendor/lge" name="CarbonDev/proprietary_vendor_lge" remote="cr" revision="kk" />
+  <project path="vendor/motorola" name="X-ROM/proprietary_vendor_motorola" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="cm-11.0" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
