@@ -385,7 +385,7 @@
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
 
   <!-- Apps -->
-  <project path="packages/apps/Apollo" name="omnirom/android_packages_apps_Apollo" remote="gh" revision="android-4.4" />
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="cm" revision="cm-11.0" />
@@ -402,7 +402,7 @@
   <project path="packages/apps/DashClock" name="X-ROM/android_packages_apps_DashClock" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="AICP/packages_apps_DeskClock" remote="gh" revision="kitkat" />
   <project path="packages/apps/Dialer" name="X-ROM/android_packages_apps_Dialer" revision="kk-new" />
-  <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="gh" revision="android-4.4" />
+  <project path="packages/apps/DSPManager" name="X-ROM/android_packages_apps_DSPManager" revision="kk-new" />
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Gallery2" name="X-ROM/android_packages_apps_Gallery2" />
