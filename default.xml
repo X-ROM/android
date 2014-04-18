@@ -522,7 +522,6 @@
   <!-- Vendor Packages -->
   <project path="vendor/crom" name="X-ROM/android_vendor_crom" />
   <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="gh" revision="cm-11.0" />
-  <project path="vendor/htc/m8" name="htc-msm8974/android_vendor_htc_m8" remote="gh" revision="cm-11.0" />
   <project path="vendor/lge" name="CarbonDev/proprietary_vendor_lge" remote="cr" revision="kk" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="gh" revision="cm-11.0" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="cm-11.0" />
