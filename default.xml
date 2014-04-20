@@ -75,6 +75,7 @@
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
   <project path="device/samsung/i9300" name="X-ROM/android_device_samsung_i9300" />
+  <project path="device/samsung/i9305" name="X-ROM/android_device_samsung_i9305" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/samsung/n7000" name="X-ROM/android_device_samsung_n7000" />
   <project path="device/samsung/maguro" name="X-ROM/android_device_samsung_maguro" />
@@ -87,6 +88,7 @@
   <project path="device/motorola/qcom-common" name="CyanogenMod/android_device_motorola_qcom-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/galaxys2-common" name="X-ROM/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/smdk4412-common" name="X-ROM/android_device_samsung_smdk4412-common" />
+  <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-11.0" />
 
   <!-- Kernel Sources -->
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="cm" revision="cm-11.0" />
