@@ -74,6 +74,7 @@
   <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="cm" revision="cm-11.0" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="device/asus/tilapia" name="CyanogenMod/android_device_asus_tilapia" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/d2lte" name="X-ROM/android_device_samsung_d2lte" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
