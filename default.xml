@@ -72,6 +72,7 @@
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
   <project path="device/motorola/falcon" name="CyanogenMod/android_device_motorola_falcon" remote="cm" revision="cm-11.0" />
   <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="cm" revision="cm-11.0" />
+  <project path="device/asus/flo" name="X-ROM/android_device_asus_flo" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="device/asus/tilapia" name="CyanogenMod/android_device_asus_tilapia" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/d2lte" name="X-ROM/android_device_samsung_d2lte" />
@@ -103,6 +104,7 @@
   <project path="kernel/samsung/tuna" name="X-ROM/android_kernel_samsung_tuna" />
   <project path="kernel/samsung/smdk4412" name="omnirom/android_kernel_samsung_smdk4412" remote="gh" revision="android-4.4" />
   <project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" remote="cm" revision="cm-11.0" />
+  <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="cm" revision="cm-11.0" />
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="kernel/htc/msm8974" name="X-ROM/android_kernel_htc_msm8974" />
 
