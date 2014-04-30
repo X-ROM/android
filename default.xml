@@ -77,6 +77,7 @@
   <project path="device/asus/flo" name="X-ROM/android_device_asus_flo" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="device/asus/tilapia" name="CyanogenMod/android_device_asus_tilapia" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_device_samsung_ariesve" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
   <project path="device/samsung/d2lte" name="X-ROM/android_device_samsung_d2lte" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
@@ -104,6 +105,7 @@
   <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
+  <project path="kernel/samsung/msm7x30" name="AriesVE-DevCon-TEAM/samsung-kernel-msm7x30" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
   <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="cm" revision="cm-11.0"/>
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="X-ROM/android_kernel_samsung_tuna" />
@@ -540,6 +542,7 @@
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="gh" revision="cm-11.0" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="gh" revision="cm-11.0" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="cm-11.0" />
+  <project path="vendor/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_vendor_samsung_ariesve" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
