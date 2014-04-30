@@ -87,6 +87,7 @@
   <project path="device/samsung/maguro" name="X-ROM/android_device_samsung_maguro" />
   <project path="device/samsung/tuna" name="X-ROM/android_device_samsung_tuna" />
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/toroplus" name="CyanogenMod/android_device_samsung_toroplus" remote="cm" revision="cm-11.0" />
   <project path="device/htc/m7-common" name="X-ROM/android_device_htc_m7-common" />
   <project path="device/htc/msm8960-common" name="X-ROM/android_device_htc_msm8960-common" />
   <project path="device/htc/msm8974-common" name="X-ROM/android_device_htc_msm8974-common" />
