@@ -70,12 +70,14 @@
   <project path="device/htc/m8vzw" name="X-ROM/android_device_htc_m8vzw" />
   <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
+  <project path="device/lge/vs980" name="X-ROM/android_device_lge_vs980" />
+  <project path="device/lge/g2-common" name="X-ROM/android_device_lge_g2-common" />
   <project path="device/motorola/falcon" name="CyanogenMod/android_device_motorola_falcon" remote="cm" revision="cm-11.0" />
   <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="cm" revision="cm-11.0" />
   <project path="device/asus/flo" name="X-ROM/android_device_asus_flo" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="device/asus/tilapia" name="CyanogenMod/android_device_asus_tilapia" remote="cm" revision="cm-11.0" />
-  <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_device_samsung_ariesve" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
   <project path="device/samsung/d2lte" name="X-ROM/android_device_samsung_d2lte" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
@@ -85,6 +87,8 @@
   <project path="device/samsung/n7000" name="X-ROM/android_device_samsung_n7000" />
   <project path="device/samsung/maguro" name="X-ROM/android_device_samsung_maguro" />
   <project path="device/samsung/tuna" name="X-ROM/android_device_samsung_tuna" />
+  <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/toroplus" name="CyanogenMod/android_device_samsung_toroplus" remote="cm" revision="cm-11.0" />
   <project path="device/htc/m7-common" name="X-ROM/android_device_htc_m7-common" />
   <project path="device/htc/msm8960-common" name="X-ROM/android_device_htc_msm8960-common" />
   <project path="device/htc/msm8974-common" name="X-ROM/android_device_htc_msm8974-common" />
@@ -101,6 +105,8 @@
   <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
+  <project path="kernel/samsung/msm7x30" name="AriesVE-DevCon-TEAM/samsung-kernel-msm7x30" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
+  <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="cm" revision="cm-11.0"/>
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="X-ROM/android_kernel_samsung_tuna" />
   <project path="kernel/samsung/smdk4412" name="omnirom/android_kernel_samsung_smdk4412" remote="gh" revision="android-4.4" />
@@ -375,16 +381,19 @@
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/audio-legacy" name="Evervolv/android_hardware_qcom_audio-legacy" remote="cm" revision="kitkat" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/display-legacy" name="AriesVE-DevCon-TEAM/android_hardware_qcom_display-legacy" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/media-legacy" name="AriesVE-DevCon-TEAM/android_hardware_qcom_media-legacy" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="cm" revision="cm-11.0" groups="qcom" />
@@ -536,6 +545,7 @@
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="gh" revision="cm-11.0" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="gh" revision="cm-11.0" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="cm-11.0" />
+  <project path="vendor/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_vendor_samsung_ariesve" remote="cm" revision="cm-11.0_ion" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
