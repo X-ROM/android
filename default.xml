@@ -549,7 +549,7 @@
   <project path="vendor/akm" name="TheMuppets/proprietary_vendor_akm" remote="gh" revision="cm-11.0" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="gh" revision="kitkat" />
   <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" remote="gh" revision="cm-11.0" />
-  <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="cm" revision="cm-11.0" />
+  <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="gh" revision="cm-11.0" />
   <project path="vendor/imgtec" name="TheMuppets/proprietary_vendor_imgtec" remote="gh" revision="cm-11.0" />
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="gh" revision="cm-11.0" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="gh" revision="cm-11.0" />
