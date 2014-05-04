@@ -107,7 +107,7 @@
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-11.0" />
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="cm" revision="cm-11.0" />
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
-  <project path="kernel/htc/msm8960" name="CarbonDev/android_kernel_htc_msm8960" remote="cr" revision="kk" />
+  <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/msm7x30" name="AriesVE-DevCon-TEAM/samsung-kernel-msm7x30" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
@@ -397,7 +397,7 @@
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/media-caf" name="X-ROM/android_hardware_qcom_media-caf" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/media-legacy" name="AriesVE-DevCon-TEAM/android_hardware_qcom_media-legacy" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
