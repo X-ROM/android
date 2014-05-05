@@ -71,7 +71,7 @@
   <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" />
   <project path="device/lge/mako" name="X-ROM/android_device_lge_mako" />
   <project path="device/lge/vs980" name="X-ROM/android_device_lge_vs980" />
-  <project path="device/lge/g2-common" name="X-ROM/android_device_lge_g2-common" />
+  <project path="device/lge/g2-common" name="CyanogenMod/android_device_lge_g2-common" remote="cm" revision="cm-11.0" />
   <project path="device/motorola/falcon" name="X-ROM/android_device_motorola_falcon" />
   <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" remote="cm" revision="cm-11.0" />
   <project path="device/asus/flo" name="X-ROM/android_device_asus_flo" />
