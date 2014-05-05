@@ -19,7 +19,7 @@
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
 
-  <remote  name="gh"
+  <remote  name="github"
            fetch="https://github.com/"
            sync-j="16" />
 
@@ -27,7 +27,7 @@
            fetch="git://github.com/" />
 
   <default revision="refs/heads/kitkat"
-           remote="xr"
+           remote="github"
            sync-j="16" />
 
   <project path="build" name="X-ROM/android_build" groups="pdk" >
