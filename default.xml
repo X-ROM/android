@@ -86,6 +86,7 @@
   <project path="device/samsung/i9305" name="X-ROM/android_device_samsung_i9305" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/samsung/n7000" name="X-ROM/android_device_samsung_n7000" />
+  <project path="device/samsung/n7100" name="CyanogenMod/android_device_samsung_n7100" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/maguro" name="X-ROM/android_device_samsung_maguro" />
   <project path="device/samsung/tuna" name="X-ROM/android_device_samsung_tuna" />
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
