@@ -91,6 +91,7 @@
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/toroplus" name="CyanogenMod/android_device_samsung_toroplus" remote="cm" revision="cm-11.0" />
   <project path="device/semc/anzu" name="3andala/android_device_semc_anzu"  remote="gh" revision="cm-11.0" />
+  <project path="device/semc/haida" name="3andala/android_device_semc_haida"  remote="gh" revision="cm-11.0" />
   <project path="device/htc/m7-common" name="X-ROM/android_device_htc_m7-common" />
   <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-11.0" />
   <project path="device/htc/msm8974-common" name="X-ROM/android_device_htc_msm8974-common" />
