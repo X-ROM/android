@@ -65,7 +65,6 @@
 
   <!-- C-RoM Devices -->
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
-  <project path="device/htc/m8" name="X-ROM/android_device_htc_m8" />
   <project path="device/htc/m8spr" name="X-ROM/android_device_htc_m8spr" />
   <project path="device/htc/m8vzw" name="X-ROM/android_device_htc_m8vzw" />
   <project path="device/lge/hammerhead" name="X-ROM/android_device_lge_hammerhead" />
