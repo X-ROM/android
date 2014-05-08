@@ -466,7 +466,6 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/ThemeChooser" name="X-ROM/android_packages_apps_ThemeChooser" revision="cm-11.0" />
   <project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="gh" revision="kk4.4" />
   <project path="packages/apps/Trebuchet" name="X-ROM/android_packages_apps_Trebuchet" />
@@ -479,7 +478,6 @@
   <project path="packages/providers/MediaProvider" name="CarbonDev/android_packages_providers_MediaProvider" remote="cr" revision="kk" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="cm" revision="cm-11.0" />
-  <project path="packages/providers/ThemesProvider" name="X-ROM/android_packages_providers_ThemesProvider" revision="cm-11.0" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
@@ -561,4 +559,7 @@
   <project path="vendor/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_vendor_samsung_ariesve" remote="cm" revision="cm-11.0_ion" />
   <project path="vendor/semc" name="LegacyXperia/proprietary_vendor_semc"  remote="gh" revision="cm-11.0" />
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="gh" revision="cm-11.0" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
 </manifest>
