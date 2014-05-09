@@ -77,6 +77,7 @@
   <project path="device/asus/flo" name="X-ROM/android_device_asus_flo" />
   <project path="device/asus/grouper" name="CyanogenMod/android_device_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="device/asus/tilapia" name="CyanogenMod/android_device_asus_tilapia" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/aries-common" name="X-ROM/android_device_samsung_aries-common" />
   <project path="device/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_device_samsung_ariesve" remote="cm" revision="cm-11.0_ion_pmem_adsp" />
   <project path="device/samsung/crespo" name="X-ROM/android_device_samsung_crespo" />
   <project path="device/samsung/d2lte" name="X-ROM/android_device_samsung_d2lte" />
@@ -106,6 +107,7 @@
   <project path="device/semc/mogami-common" name="LegacyXperia/android_device_semc_mogami-common"  remote="gh" revision="cm-11.0" />
   
   <!-- Kernel Sources -->
+  <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-11.0" />
   <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="cm" revision="cm-11.0" />
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
