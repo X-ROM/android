@@ -94,7 +94,7 @@
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/toroplus" name="CyanogenMod/android_device_samsung_toroplus" remote="cm" revision="cm-11.0" />
   <project path="device/semc/anzu" name="3andala/android_device_semc_anzu"  remote="gh" revision="cm-11.0" />
-  <project path="device/htc/m8" name="htc-msm8974/android_device_htc_m8" remote="gh" revision="cm-11.0" />
+  <project path="device/htc/m8" name="CyanogenMod/android_device_htc_m8" remote="cm" revision="cm-11.0" />
   <project path="device/htc/m7-common" name="X-ROM/android_device_htc_m7-common" />
   <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-11.0" />
   <project path="device/samsung/msm8960-common" name="X-ROM/android_device_samsung_msm8960-common" />
@@ -123,7 +123,7 @@
   <project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" remote="cm" revision="cm-11.0" />
   <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="cm" revision="cm-11.0" />
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-11.0" />
-  <project path="kernel/htc/msm8974" name="X-ROM/android_kernel_htc_msm8974" />
+  <project path="kernel/htc/msm8974" name="CyanogenMod/android_kernel_htc_msm8974" remote="cm" revision="cm-11.0" />
 
   <!-- External Packages -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
