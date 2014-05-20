@@ -84,7 +84,7 @@
   <project path="device/samsung/galaxysmtd" name="X-ROM/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/hlte" name="X-ROM/android_device_samsung_hlte" />
   <project path="device/samsung/i9100" name="X-ROM/android_device_samsung_i9100" />
-  <project path="device/samsung/i9300" name="X-ROM/android_device_samsung_i9300" revision="kitkat-new" />
+  <project path="device/samsung/i9300" name="X-ROM/android_device_samsung_i9300" />
   <project path="device/samsung/i9305" name="X-ROM/android_device_samsung_i9305" />
   <project path="device/samsung/jflte" name="X-ROM/android_device_samsung_jflte" />
   <project path="device/samsung/n7000" name="X-ROM/android_device_samsung_n7000" />
