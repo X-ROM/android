@@ -350,7 +350,7 @@
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
 
   <!-- Frameworks Packages -->
-  <project path="frameworks/av" name="X-ROM/android_frameworks_av" revision="kk-new" />
+  <project path="frameworks/av" name="X-ROM/android_frameworks_av" revision="kitkat" />
   <project path="frameworks/base" name="X-ROM/android_frameworks_base" revision="kitkat" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
