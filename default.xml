@@ -113,6 +113,7 @@
   <project path="kernel/lge/mako" name="CarbonDev/android_kernel_lge_mako" remote="cr" revision="kk" />
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-11.0" />
+  <project path="kernel/samsung/golden" name="NovaFusion/android_kernel_samsung_golden" remote="gh" revision="master" />
   <project path="kernel/samsung/hlte" name="CyanogenMod/android_kernel_samsung_hlte" remote="cm" revision="cm-11.0" />
   <project path="kernel/semc/msm7x30" name="LegacyXperia/android_kernel_semc_msm7x30"  remote="gh" revision="cm-11.0" />
   <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="cm" revision="cm-11.0"/>
